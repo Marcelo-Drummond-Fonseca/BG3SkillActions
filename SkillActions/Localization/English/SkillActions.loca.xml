@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h69b651a3gdcc1g41d1g8450gcf2908afaa86" version="1">Intimidate</content>
+	<content contentuid="h46349b20g17d7g43ddg8c0bg9b19d13d4d9d" version="1">Make an Intimidation Check against a target's Insight. On a success, the target becomes frightened. Usable only if you have Intimidation proficiency.</content>
+	<content contentuid="hb8b0b891gc7c1g4604g8946gf442e53d7365" version="1">Shove (Trip)</content>
+	<content contentuid="h333f6f96g53f9g4bc1gae52g39151329f371" version="1">Make an Athletics Check against a target's Athletics or Acrobatics. On a success, the target is knocked prone. Usable only if you have Athletics proficiency.</content>
+	<content contentuid="hdccba7d2g171fg4cf0ga6d5g5ab26cf06d60" version="1">Swap Places</content>
+	<content contentuid="h68da02f3g8435g4c66g92a7g689c4ff6e360" version="1">Make an Acrobatics Check against a target's Athletics. On a success, you swap places. Always succeeds on allies. Usable only if you have Acrobatics proficiency.</content>
+	<content contentuid="h2e0d970ag2617g43d2gbf5dg4dbce8672ac6" version="1">Feint</content>
+	<content contentuid="hfb7fa2d9g1f2bg453ega865g5fe4a37a8418" version="1">Make a Sleight of Hand Check against a target's Perception. On a success, the target becomes Off-Balance until end of turn. Usable only if you have Sleight of Hand proficiency.</content>
+	<content contentuid="hab28b00aga22bg45d5ga0cfg076a078b4a96" version="1">Quick Hide</content>
+	<content contentuid="h09d32ceeg4037g4850gbeeeg1ad5da833d26" version="1">Quickly hide in combat. Usable only if you have Stealth proficiency.</content>
+	<content contentuid="h348431b7gbba2g42bdg98c0g48bd84d1b893" version="1">Recall Knowledge (Arcana)</content>
+	<content contentuid="hbf2b5b6dg552fg496ag92a1g0fd2835aa1f2" version="1">Make a DC 15 Arcana check against an Aberration, Construct, Monstrosity or Ooze. On a success, the target has disadvantage on its saving throws until end of turn. Usable only if you have Arcana proficiency.</content>
+	<content contentuid="h2e60c781gccb4g40e6g8b45g29dfb11e0740" version="1">Recall Knowledge (History)</content>
+	<content contentuid="h284a1973g3596g4e9bgb2eag87bccdfcbf29" version="1">Make a DC 15 History check against a Humanoid, Dragon or Giant. On a success, the target has disadvantage on its saving throws until end of turn. Usable only if you have History proficiency.</content>
+	<content contentuid="h0ba7791bg41a6g4dd8g8825gb925c0000826" version="1">Recall Knowledge (Nature)</content>
+	<content contentuid="h2a32fab7g5202g42e2ga12ag9adfca030758" version="1">Make a DC 15 Nature check against a Beast, Elemental, Fey or Plant. On a success, the target has disadvantage on its saving throws until end of turn. Usable only if you have Nature proficiency.</content>
+	<content contentuid="had2b6f82ga1aag4d18g8880g8cec89b84c30" version="1">Recall Knowledge (Religion)</content>
+	<content contentuid="hdd15b946gd8ccg4dbagabaag6d3f0c26cd5d" version="1">Make a DC 15 Religion check against a Celestial, Fiend or Undead. On a success, the target has disadvantage on its saving throws until end of turn. Usable only if you have Religion proficiency.</content>
+	<content contentuid="ha2f67183g6820g402dgbe32g9cd14ea0d23f" version="1">Find Weak Spot (Investigation)</content>
+	<content contentuid="h726897a1gdb6cg4dd6ga8f5gae137669c02d" version="1">Make an Investigation check against a target's Stealth. On a success, your next attack this turn is a guaranteed critical. Usable only if you have Investigation proficiency.</content>
+	<content contentuid="h572a0352g0058g4114ga7b8g2292c0034189" version="1">Handle Animal</content>
+	<content contentuid="h51b921b0g1cd9g4967g9544g4211dfdeb955" version="1">Make an Animal Handling check against a Beast's Insight. On a success, the beast becomes dominated by you for a short moment. Usable only if you have Animal Handling proficiency.</content>
+	<content contentuid="hd91393f9gefdbg44efga61ag1108ab9ad657" version="1">Predict</content>
+	<content contentuid="h9a44e458g6ac8g4ab7g8f88g98d1cb060916" version="1">Make an Insight check against a target's Deception. On a success, the target has disadvantage on attacks on its next turn. Usable only if you have Insight proficiency.</content>
+	<content contentuid="h5bcdb4c0g0488g4d6fgbc45g960b7fa0ac87" version="1">Perform First Aid</content>
+	<content contentuid="h0446affcg3a18g4cbfg8c8egf1bfd95b2cab" version="1">Make a DC 15 Medicine check on an ally. The ally recovers hit points on a success, and half as many hit points on a failed check. Usable only if you have Medicine proficiency.</content>
+	<content contentuid="hf9a5f42dg77c6g4aceg9c33ga067563ec30a" version="1">Find Weak Spot (Survival)</content>
+	<content contentuid="h4a59c502gbdceg48ddg9a33gc288ae1aa45c" version="1">Make a Survival check against a target's Survival. On a success, your next attack this turn is a guaranteed critical. Usable only if you have Survival proficiency.</content>
+	<content contentuid="hc7e19669g4ae7g4d3eg8dcfg18714376ee77" version="1">Deceive</content>
+	<content contentuid="h76940000g902cg4afdga0dag407ea57d84bd" version="1">Make a Deception check against a target's Insight. On a success, the target becomes confused. The target must have some intelligence. Usable only if you have Deception proficiency.</content>
+	<content contentuid="h79233fadg4297g497dg8aabga64c4137d8d3" version="1">Persuade</content>
+	<content contentuid="h8d1638ecg53b7g4ad9g9582gc41faa757474" version="1">Make a Deception check against a target's Insight. On a success, the target becomes charmed. The target must have some intelligence. Usable only if you have Persuasion proficiency.</content>
+	<content contentuid="h03f44418g860ag4633g8cb4gd0fbe5a0d9ae" version="1">Taunt</content>
+	<content contentuid="h2bc5e386g0e1ag4df6g8d01g0b4afdb2f098" version="1">Make a Performance check against a target's Insight. On a success, the target is compelled to attack you. Usable only if you have Performance proficiency.</content>
+	<content contentuid="h70f68dcdge26ag4a7ag9281g6b2b93b2f329" version="1">Knowledge Recalled</content>
+	<content contentuid="h766c2df4gf9dfg467fg9ea6g78f18d11b1bb" version="1">You have recalled knowledge about this creature. It has disadvantage on saving throws against you.</content>
+	<content contentuid="h5ae8771dg1f4ag4622ga375g59113317609c" version="1">Weakness Spotted</content>
+	<content contentuid="h91dea634ga86dg4eb9gbe0cg20e7177db640" version="1">Your next attack against the target will be a critical hit.</content>
+	<content contentuid="hdce7d6b0g2961g423cgb2efga3e47989a3b4" version="1">Predicted</content>
+	<content contentuid="h3bf91db4g5282g4753gbc47gd922043f89b9" version="1">You have predicted your opponent's next move. Its next attacks will be made with disadvantage.</content>
+</contentList>
